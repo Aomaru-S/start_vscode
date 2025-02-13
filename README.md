@@ -101,8 +101,8 @@ https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets
 - GUI起動
   - 画面左下の設定アイコン
   - `Ctrl + ,`でショートカット
-  - JSON操作  
-    設定画面右上のアイコンクリック
+  - JSONで管理  
+    設定画面右上のアイコンクリック  
     ![](assets/setting-by-json.png)
 
 ### 設定のスコープについて
