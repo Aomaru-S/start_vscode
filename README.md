@@ -54,9 +54,9 @@ https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl
 DockerコンテナからVSCodeを起動できる。
 そのままファイルやコマンド操作をすることができる。  
 チーム開発では超絶オススメ！  
-IaCなのでアプリコードと一緒に環境情報をGit管理し、新規参画者は最低限の環境構築のみで済む。  
-DBの初期化などをすればサンプルデータも共有できる。  
-使う拡張機能も共有できる。  
+IaCなのでアプリコードと一緒に環境情報をGit管理し、新規参画者は最低限の環境構築で開発を始めることができる。  
+DBの初期化処理を組み込めばローカルですぐサンプルデータをいじれる。 　
+拡張機能も設定に組み込み、共有できる。  
 https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers
 
 #### Remote - SSH
@@ -88,6 +88,7 @@ https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
 https://marketplace.visualstudio.com/items?itemName=GitHub.copilot
 
 ### その他
+#### VSCode Pets
 ペットが飼える！可愛い  
 ![](assets/vscode-pets.png)  
 https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets
@@ -158,7 +159,7 @@ Dev Containerにデフォルトでインストールしたい拡張機能場あ�
 ```
 "editor.minimap.enabled": false,
 ```
-ミニマップはこれ
+ミニマップはこれ  
 ![](assets/minimap.png)
 
 #### オートセーブ
